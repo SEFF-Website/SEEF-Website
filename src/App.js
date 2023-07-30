@@ -1,9 +1,9 @@
 import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      App
+    <div className="text-center bg-primary">
+      Setup
+      <i className='fa-solid fa-house'></i>
     </div>
   );
 }

@@ -1,6 +1,13 @@
-body {
-  margin: 0;
+* {
   font-family:sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+:root{
+  /* COLORS */
+   --PRIMARY : #BF9B30;
+  --GREEN : #34A853;
+  --GREY : #D0D0D0;
+  --BLACK : #1A1919;
+  /* font family */
+  --FONT_FAMILY :sans-serif;
 }
