@@ -1,0 +1,18 @@
+/* go to up button */
+.--home-to-up-button{
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    border: 1px solid #EDD587;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    color: #EDD587;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    background: #1A1A1A;
+}
+/* go to up button */
