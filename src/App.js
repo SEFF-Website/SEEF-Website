@@ -1,10 +1,11 @@
 import './App.css';
+import { BrowserRouter } from 'react-router-dom'
+import Router from './router/Router';
 function App() {
   return (
-    <div className="text-center bg-primary">
-      Setup
-      <i className='fa-solid fa-house'></i>
-    </div>
+    <BrowserRouter>
+      <Router />
+    </BrowserRouter>
   );
 }
 
